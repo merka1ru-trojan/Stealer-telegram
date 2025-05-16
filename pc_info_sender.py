@@ -27,8 +27,8 @@ if platform.system() == 'Windows':
     except:
         pass
 
-BOT_TOKEN = "7255927115:AAEwvyq5ea25XA46gDt6YJkcFFSI0JpmcHM"
-USER_ID = 7719643249
+BOT_TOKEN = "токен_бота"
+USER_ID = ваш_айди
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
